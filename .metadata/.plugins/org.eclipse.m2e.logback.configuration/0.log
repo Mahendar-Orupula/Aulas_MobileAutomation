@@ -1,0 +1,940 @@
+2022-11-22 12:38:34,668 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-22 12:39:10,206 [ModalContext] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:39:10,234 [Worker-0: http://marketplace.eclipse.org/catalogs/api/p] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:39:10,454 [Worker-13: http://marketplace.eclipse.org/catalogs/api/p] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:39:39,135 [ModalContext] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:39:39,146 [Worker-4: http://marketplace.eclipse.org/catalogs/api/p] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:39:39,379 [Worker-3: http://marketplace.eclipse.org/catalogs/api/p] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:40:10,076 [ModalContext] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:40:10,089 [Worker-9: http://marketplace.eclipse.org/catalogs/api/p] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:40:10,311 [Worker-5: http://marketplace.eclipse.org/catalogs/api/p] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://marketplace.eclipse.org:80
+2022-11-22 12:44:28,745 [Worker-18: http://testng.org/testng-p2-update-site/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:44:28,975 [Worker-9: http://testng.org/testng-p2-update-site/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:44:28,991 [Worker-16: http://testng.org/testng-p2-update-site/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:44:29,006 [Worker-15: http://testng.org/testng-p2-update-site/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:44:29,020 [Worker-9: http://download.eclipse.org/technology/m2e/releases/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:44:29,242 [Worker-14: http://download.eclipse.org/technology/m2e/releases/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:44:29,259 [Worker-17: http://download.eclipse.org/technology/m2e/releases/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:44:29,271 [Worker-18: http://download.eclipse.org/technology/m2e/releases/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:44:30,029 [Worker-15: http://dl.bintray.com/testng-team/testng-p2-release/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:44:30,243 [Worker-13: http://dl.bintray.com/testng-team/testng-p2-release/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:44:30,255 [Worker-9: http://dl.bintray.com/testng-team/testng-p2-release/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:44:30,266 [Worker-19: http://dl.bintray.com/testng-team/testng-p2-release/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:45:11,531 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-22 12:45:40,265 [Worker-4: http://testng.org/testng-p2-update-site/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:45:40,508 [Worker-0: http://testng.org/testng-p2-update-site/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:45:40,536 [Worker-7: http://testng.org/testng-p2-update-site/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:45:40,552 [Worker-8: http://testng.org/testng-p2-update-site/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://testng.org:80
+2022-11-22 12:45:40,569 [Worker-5: http://download.eclipse.org/technology/m2e/releases/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:45:40,807 [Worker-4: http://download.eclipse.org/technology/m2e/releases/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:45:40,840 [Worker-9: http://download.eclipse.org/technology/m2e/releases/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:45:40,854 [Worker-3: http://download.eclipse.org/technology/m2e/releases/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://download.eclipse.org:80
+2022-11-22 12:46:04,164 [Worker-1: http://dl.bintray.com/testng-team/testng-p2-release/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:46:04,377 [Worker-9: http://dl.bintray.com/testng-team/testng-p2-release/p2.index] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:46:04,389 [Worker-8: http://dl.bintray.com/testng-team/testng-p2-release/content.jar] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:46:04,400 [Worker-1: http://dl.bintray.com/testng-team/testng-p2-release/content.xml] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (java.net.SocketException) caught when processing request to {}->http://dl.bintray.com:80
+2022-11-22 12:46:21,483 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/1.4/maven-archetype-bundles-1.4.pom
+2022-11-22 12:46:21,754 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-bundles/1.4/maven-archetype-bundles-1.4.pom
+2022-11-22 13:03:34,504 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-22 13:05:16,292 [Worker-6: Launching mavenrun-605f00ab-3439-48a8-9e3e-68c3ff5c0ed5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation
+2022-11-22 13:05:16,302 [Worker-6: Launching mavenrun-605f00ab-3439-48a8-9e3e-68c3ff5c0ed5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=Aulas_MobileAutomation.Aulas_MobileAutomation -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=Aulas_MobileAutomation -DartifactId=Aulas_MobileAutomation -DoutputDirectory=C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-11-22 13:07:49,237 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\pom.xml
+2022-11-22 13:07:54,039 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Aulas_MobileAutomation:Aulas_MobileAutomation:0.0.1-SNAPSHOT @ C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\pom.xml.
+2022-11-22 13:07:56,618 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Aulas_MobileAutomation/src/main/java
+2022-11-22 13:07:56,634 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Aulas_MobileAutomation/src/test/java
+2022-11-22 13:07:57,216 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2022-11-22 13:07:59,005 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:07:59,006 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:07:59,011 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:07:59,012 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:08:32,493 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:08:32,493 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:08:32,500 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:08:32,500 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:09:17,776 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:09:17,776 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:09:17,782 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:09:17,782 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:10:08,770 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:10:08,771 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:10:08,776 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:10:08,776 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:10:09,853 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:10:09,854 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:10:09,859 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:10:09,860 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:12:03,133 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Aulas_MobileAutomation:Aulas_MobileAutomation:0.0.1-SNAPSHOT @ C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\pom.xml.
+2022-11-22 13:12:17,607 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:12:17,608 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:12:17,614 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:12:17,614 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:12:20,152 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:12:20,152 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:12:20,156 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:12:20,157 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:14:53,018 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:14:53,019 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:14:53,024 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:14:53,025 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:15:16,914 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:15:16,915 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:15:16,919 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:15:16,920 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:15:57,693 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:15:57,693 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:15:57,698 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:15:57,698 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:16:56,962 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:16:56,963 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:16:56,982 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:16:56,983 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:18:14,449 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:18:14,450 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:18:14,454 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:18:14,454 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:19:33,730 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:19:33,731 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:19:33,737 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:19:33,737 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:19:48,218 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:19:48,219 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:19:48,224 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:19:48,225 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 13:20:03,584 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:20:03,584 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 13:20:03,589 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 13:20:03,589 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:08:07,048 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:07,048 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:08:07,054 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:07,055 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:08:15,312 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:15,312 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:08:15,315 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:15,316 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:08:25,322 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:25,323 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:08:25,329 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:25,329 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:08:39,834 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:39,835 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:08:39,841 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:39,841 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:08:53,099 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:53,100 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:08:53,106 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:08:53,106 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:09:52,541 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:09:52,541 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:09:52,548 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:09:52,548 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:11:30,794 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:11:30,795 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:11:30,800 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:11:30,800 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:17:58,261 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:17:58,262 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:17:58,266 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:17:58,267 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:18:15,262 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:18:15,262 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:18:15,266 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:18:15,267 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:20:41,099 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:20:41,099 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:20:41,102 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:20:41,103 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:22:59,060 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:22:59,061 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:22:59,065 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:22:59,066 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:23:18,286 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:23:18,287 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:23:18,292 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:23:18,293 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:24:04,773 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:24:04,774 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:24:04,778 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:24:04,779 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:30:40,782 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:30:40,782 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:30:40,786 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:30:40,787 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:31:06,404 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:31:06,405 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:31:06,410 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:31:06,411 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:33:31,986 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:33:31,986 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:33:31,988 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:33:31,989 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:34:06,776 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:34:06,776 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:34:06,779 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:34:06,780 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:34:23,526 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:34:23,526 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:34:23,528 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:34:23,529 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:48:40,528 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:48:40,528 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:48:40,531 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:48:40,532 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:50:11,377 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:50:11,377 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:50:11,380 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:50:11,381 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:51:40,104 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:51:40,104 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:51:40,107 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:51:40,107 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:57:39,803 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:57:39,803 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:57:39,805 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:57:39,806 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:59:33,370 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:59:33,370 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:59:33,373 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:59:33,374 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 14:59:46,915 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:59:46,915 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 14:59:46,918 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 14:59:46,918 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:00:43,174 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:00:43,175 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:00:43,178 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:00:43,178 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:03:43,985 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:03:43,986 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:03:43,989 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:03:43,989 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:07:03,623 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:07:03,623 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:07:03,625 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:07:03,626 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:11:01,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:11:01,253 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:11:01,255 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:11:01,255 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:16:03,154 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:16:03,155 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:16:03,157 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:16:03,158 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:26:32,680 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:26:32,680 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:26:32,683 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:26:32,683 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:36:35,007 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:36:35,008 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:36:35,010 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:36:35,011 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:39:06,264 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:06,264 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:39:06,267 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:06,267 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:44:29,348 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:44:29,349 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:44:29,351 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:44:29,352 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:44:41,429 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:44:41,429 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:44:41,432 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:44:41,432 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:55:37,911 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:55:37,912 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:55:37,915 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:55:37,916 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:56:00,429 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:56:00,429 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:56:00,432 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:56:00,432 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 15:56:10,175 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:56:10,175 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 15:56:10,180 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:56:10,181 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:00:55,730 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:00:55,731 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:00:55,733 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:00:55,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:01:22,790 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:01:22,790 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:01:22,794 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:01:22,795 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:01:29,434 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:01:29,434 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:01:29,436 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:01:29,437 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:04:14,902 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:04:14,903 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:04:14,906 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:04:14,907 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:05:16,155 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:05:16,156 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:05:16,159 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:05:16,159 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:43:46,340 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:43:46,341 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:43:46,344 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:43:46,344 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:44:18,577 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:44:18,578 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:44:18,581 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:44:18,581 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 16:50:41,076 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:50:41,078 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 16:50:41,083 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 16:50:41,083 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:03:19,205 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:03:19,206 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:03:19,208 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:03:19,208 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:03:35,230 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:03:35,231 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:03:35,233 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:03:35,234 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:07:55,537 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:07:55,537 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:07:55,539 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:07:55,540 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:12:12,932 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:12:12,932 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:12:12,935 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:12:12,935 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:32:58,414 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:32:58,414 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:32:58,417 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:32:58,417 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:33:21,462 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:33:21,463 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:33:21,465 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:33:21,465 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-22 17:43:49,158 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:43:49,159 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-22 17:43:49,161 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 17:43:49,161 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 10:14:30,331 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-23 10:56:17,754 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 10:56:17,754 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 10:56:17,760 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 10:56:17,760 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 11:25:44,342 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:25:44,343 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 11:25:44,349 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:25:44,349 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 11:26:09,408 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:26:09,408 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 11:26:09,414 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:26:09,414 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 11:26:14,220 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:26:14,220 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 11:26:14,227 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:26:14,227 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 11:29:34,034 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:29:34,035 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 11:29:34,040 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:29:34,040 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 11:45:33,378 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:45:33,378 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 11:45:33,382 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:45:33,382 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 11:56:03,441 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:56:03,442 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 11:56:03,445 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 11:56:03,446 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 12:30:42,601 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:30:42,601 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 12:30:42,604 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:30:42,605 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 12:30:54,724 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:30:54,724 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 12:30:54,727 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:30:54,727 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 12:48:06,139 [Worker-28: Launching AttendanceTest.validateMyAttendancePage] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:48:06,140 [Worker-28: Launching AttendanceTest.validateMyAttendancePage] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 12:48:06,144 [Worker-28: Launching AttendanceTest.validateMyAttendancePage] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:48:06,144 [Worker-28: Launching AttendanceTest.validateMyAttendancePage] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 12:50:49,570 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:50:49,571 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 12:50:49,573 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:50:49,574 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 12:55:05,921 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:55:05,921 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 12:55:05,924 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 12:55:05,924 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:00:11,807 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:00:11,807 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:00:11,810 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:00:11,810 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:00:40,425 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:00:40,426 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:00:40,429 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:00:40,429 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:05:28,534 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:05:28,535 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:05:28,547 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:05:28,548 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:05:41,038 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:05:41,039 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:05:41,067 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:05:41,068 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:07:30,932 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:07:30,932 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:07:30,937 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:07:30,937 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:08:23,078 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:08:23,079 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:08:23,084 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:08:23,084 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:11:43,531 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Aulas_MobileAutomation:Aulas_MobileAutomation:0.0.1-SNAPSHOT @ C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\pom.xml.
+2022-11-23 13:11:53,566 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:11:53,567 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:11:53,572 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:11:53,572 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:11:55,872 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:11:55,872 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:11:55,876 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:11:55,877 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:14:03,084 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:14:03,084 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:14:03,090 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:14:03,090 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:16:03,338 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:16:03,338 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:16:03,342 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:16:03,343 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:16:21,100 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:16:21,100 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:16:21,106 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:16:21,106 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 13:16:46,469 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:16:46,469 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 13:16:46,475 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 13:16:46,475 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 14:34:33,933 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-23 15:40:58,436 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 15:40:58,438 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 15:40:58,443 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 15:40:58,443 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 15:50:25,403 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 15:50:25,403 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 15:50:25,407 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 15:50:25,407 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 15:55:16,414 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 15:55:16,414 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 15:55:16,422 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 15:55:16,422 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 16:00:07,787 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:00:07,788 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 16:00:07,791 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:00:07,791 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 16:25:54,511 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:25:54,512 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 16:25:54,526 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:25:54,527 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 16:38:48,578 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:38:48,579 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 16:38:48,584 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:38:48,589 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 16:41:02,524 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:41:02,525 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 16:41:02,529 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:41:02,530 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 16:49:32,461 [Worker-25: Launching FeeTest.addOfflinePayment] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:49:32,462 [Worker-25: Launching FeeTest.addOfflinePayment] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 16:49:32,468 [Worker-25: Launching FeeTest.addOfflinePayment] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:49:32,469 [Worker-25: Launching FeeTest.addOfflinePayment] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 16:53:07,204 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:53:07,205 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 16:53:07,210 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 16:53:07,211 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 17:05:03,292 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:05:03,293 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 17:05:03,337 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:05:03,338 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 17:07:14,077 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:07:14,077 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 17:07:14,080 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:07:14,080 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 17:09:54,299 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:09:54,303 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 17:09:54,306 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:09:54,306 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 17:17:05,902 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:17:05,903 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 17:17:05,906 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:17:05,906 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-23 17:43:01,254 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:43:01,255 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-23 17:43:01,261 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 17:43:01,261 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 09:48:13,978 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-24 10:10:12,580 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:10:12,581 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:10:12,587 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:10:12,587 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 10:11:47,424 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:11:47,424 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:11:47,428 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:11:47,429 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 10:16:37,120 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:16:37,121 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:16:37,124 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:16:37,125 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 10:49:40,371 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:49:40,371 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:49:40,374 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:49:40,375 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 10:52:36,618 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:52:36,619 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:52:36,622 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:52:36,622 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 10:53:46,121 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:53:46,121 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:53:46,124 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:53:46,124 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 10:57:15,145 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:57:15,145 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 10:57:15,148 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 10:57:15,149 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:00:38,512 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:00:38,512 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:00:38,517 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:00:38,517 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:04:53,786 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:04:53,786 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:04:53,790 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:04:53,791 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:19:36,483 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:19:36,484 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:19:36,488 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:19:36,489 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:25:34,597 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:25:34,598 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:25:34,601 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:25:34,602 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:25:39,268 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:25:39,296 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:25:39,302 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:25:39,302 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:26:25,239 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:26:25,239 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:26:25,243 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:26:25,243 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:26:57,825 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:26:57,826 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:26:57,830 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:26:57,831 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 11:35:14,472 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:35:14,472 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 11:35:14,476 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 11:35:14,477 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:20:09,536 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:20:09,536 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:20:09,540 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:20:09,540 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:29:47,787 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:29:47,787 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:29:47,791 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:29:47,792 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:32:27,876 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:32:27,876 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:32:27,879 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:32:27,879 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:38:10,906 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:38:10,906 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:38:10,909 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:38:10,909 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:39:59,381 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:39:59,382 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:39:59,384 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:39:59,384 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:40:35,690 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:40:35,690 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:40:35,693 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:40:35,694 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 12:59:54,988 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:59:54,989 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 12:59:54,992 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 12:59:54,992 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 13:00:33,318 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:00:33,318 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 13:00:33,323 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:00:33,324 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 13:07:00,939 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:07:00,939 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 13:07:00,943 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:07:00,943 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 13:12:51,419 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:12:51,420 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 13:12:51,423 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:12:51,424 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 13:16:14,248 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:16:14,249 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 13:16:14,253 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:16:14,253 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 13:28:29,896 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:28:29,896 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 13:28:29,900 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 13:28:29,901 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 15:14:15,186 [Worker-75: Launching FeeTest.validateTransactionsInvoiceDownload] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:14:15,186 [Worker-75: Launching FeeTest.validateTransactionsInvoiceDownload] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 15:14:15,189 [Worker-75: Launching FeeTest.validateTransactionsInvoiceDownload] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:14:15,190 [Worker-75: Launching FeeTest.validateTransactionsInvoiceDownload] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 15:16:39,588 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:16:39,588 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 15:16:39,590 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:16:39,591 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 15:19:59,040 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:19:59,041 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 15:19:59,044 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:19:59,044 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 15:31:03,098 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:31:03,099 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 15:31:03,101 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:31:03,101 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 15:51:08,822 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:51:08,823 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 15:51:08,829 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 15:51:08,830 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 16:34:18,666 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:34:18,666 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 16:34:18,669 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:34:18,669 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 16:35:43,038 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:35:43,038 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 16:35:43,041 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:35:43,041 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 16:36:28,763 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:36:28,763 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 16:36:28,765 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:36:28,765 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-24 16:39:16,028 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:39:16,028 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-24 16:39:16,032 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-24 16:39:16,032 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 09:31:09,130 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-25 09:31:31,405 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-11-25 11:10:52,550 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 11:10:52,551 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 11:10:52,559 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 11:10:52,560 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 11:11:39,303 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 11:11:39,304 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 11:11:39,325 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 11:11:39,326 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 11:13:32,976 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 11:13:32,977 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 11:13:32,983 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 11:13:32,984 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 12:16:08,214 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:16:08,215 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 12:16:08,219 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:16:08,220 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 12:27:40,574 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:27:40,574 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 12:27:40,579 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:27:40,579 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 12:33:15,844 [Worker-31: Launching TeacherFeeManagerFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:33:15,844 [Worker-31: Launching TeacherFeeManagerFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 12:33:15,870 [Worker-31: Launching TeacherFeeManagerFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:33:15,871 [Worker-31: Launching TeacherFeeManagerFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 12:59:41,863 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:59:41,863 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 12:59:41,866 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 12:59:41,866 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 13:29:36,288 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:29:36,288 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 13:29:36,292 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:29:36,292 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 13:33:19,732 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:33:19,732 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 13:33:19,735 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:33:19,735 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 13:33:37,495 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:33:37,495 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 13:33:37,498 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 13:33:37,498 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-25 14:16:14,584 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 14:16:14,584 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-25 14:16:14,588 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-25 14:16:14,589 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 13:55:47,459 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-29 13:56:01,767 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-11-29 13:56:17,257 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 13:56:17,257 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 13:56:17,264 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 13:56:17,264 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 13:57:57,532 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 13:57:57,532 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 13:57:57,540 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 13:57:57,540 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 14:05:11,662 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 14:05:11,662 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 14:05:11,668 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 14:05:11,668 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 14:22:32,934 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 14:22:32,935 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 14:22:32,940 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 14:22:32,941 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 14:34:48,241 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 14:34:48,241 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 14:34:48,247 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 14:34:48,248 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 15:21:51,926 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 15:21:51,926 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 15:21:51,930 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 15:21:51,930 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 15:24:16,491 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 15:24:16,491 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 15:24:16,494 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 15:24:16,495 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-29 15:24:55,373 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 15:24:55,373 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-29 15:24:55,378 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-29 15:24:55,379 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 11:12:39,873 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-30 11:13:02,235 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:13:02,238 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 11:13:02,248 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:13:02,249 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 11:13:18,338 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:13:18,338 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 11:13:18,345 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:13:18,346 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 11:19:16,823 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:19:16,823 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 11:19:16,827 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:19:16,827 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 11:23:03,081 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:23:03,082 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 11:23:03,085 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:23:03,086 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 11:24:12,589 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:24:12,589 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 11:24:12,592 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 11:24:12,593 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 12:04:09,463 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:04:09,464 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 12:04:09,469 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:04:09,469 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 12:11:11,830 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:11:11,831 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 12:11:11,835 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:11:11,836 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 12:12:15,427 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:12:15,428 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 12:12:15,437 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:12:15,438 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 12:42:33,417 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:42:33,418 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 12:42:33,422 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 12:42:33,422 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:03:22,814 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:03:22,814 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:03:22,817 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:03:22,818 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:04:57,583 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:04:57,583 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:04:57,586 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:04:57,587 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:50:11,523 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:50:11,524 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:50:11,527 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:50:11,527 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:50:50,533 [Worker-31: Launching SuperAdminFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:50:50,533 [Worker-31: Launching SuperAdminFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:50:50,536 [Worker-31: Launching SuperAdminFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:50:50,536 [Worker-31: Launching SuperAdminFeeTest.validateSettings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:57:29,819 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:57:29,820 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:57:29,822 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:57:29,823 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:58:12,163 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:58:12,164 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:58:12,168 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:58:12,189 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:58:15,352 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:58:15,352 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:58:15,355 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:58:15,356 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:59:23,195 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:59:23,195 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:59:23,199 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:59:23,200 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 13:59:32,198 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:59:32,198 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 13:59:32,201 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 13:59:32,201 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:00:04,306 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:00:04,306 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:00:04,309 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:00:04,309 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:00:37,278 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:00:37,278 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:00:37,281 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:00:37,281 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:01:13,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:01:13,370 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:01:13,373 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:01:13,373 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:04:26,813 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:04:26,814 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:04:26,816 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:04:26,817 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:44:23,107 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:44:23,107 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:44:23,111 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:44:23,112 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:45:35,476 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:45:35,477 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:45:35,482 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:45:35,482 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:45:53,762 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:45:53,763 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:45:53,768 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:45:53,769 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:46:47,850 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:46:47,850 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:46:47,855 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:46:47,855 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:48:05,465 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:48:05,465 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:48:05,468 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:48:05,469 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:48:12,432 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:48:12,433 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:48:12,438 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:48:12,438 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:49:48,396 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:49:48,396 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:49:48,400 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:49:48,401 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:49:52,529 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:49:52,529 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:49:52,538 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:49:52,547 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:50:05,496 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:50:05,496 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:50:05,500 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:50:05,500 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 14:50:44,923 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:50:44,924 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 14:50:44,928 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 14:50:44,929 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:04:41,572 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:04:41,573 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:04:41,576 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:04:41,576 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:06:04,035 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:06:04,035 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:06:04,039 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:06:04,040 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:13:39,509 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:13:39,510 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:13:39,514 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:13:39,514 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:21:11,151 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:21:11,152 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:21:11,157 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:21:11,157 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:22:20,680 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:22:20,681 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:22:20,684 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:22:20,685 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:29:18,615 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:29:18,617 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:29:18,621 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:29:18,622 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:36:39,192 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:36:39,193 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:36:39,196 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:36:39,196 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:36:47,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:36:47,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:36:47,433 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:36:47,433 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:38:06,416 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:38:06,416 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:38:06,419 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:38:06,419 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:38:25,342 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:38:25,343 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:38:25,346 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:38:25,346 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:38:31,590 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:38:31,590 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:38:31,592 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:38:31,592 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:47:40,135 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:47:40,135 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:47:40,139 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:47:40,139 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:47:58,713 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:47:58,713 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:47:58,716 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:47:58,716 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:48:20,834 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:48:20,834 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:48:20,836 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:48:20,837 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:49:05,255 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:49:05,255 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:49:05,258 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:49:05,258 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:49:36,828 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:49:36,828 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:49:36,831 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:49:36,831 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:50:10,070 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:50:10,070 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:50:10,075 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:50:10,075 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:50:20,582 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:50:20,583 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:50:20,585 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:50:20,585 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:52:11,287 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:52:11,287 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:52:11,290 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:52:11,291 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:53:23,216 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:53:23,217 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:53:23,219 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:53:23,219 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:55:37,993 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:55:37,993 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:55:37,995 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:55:37,996 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:55:51,068 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:55:51,068 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:55:51,071 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:55:51,072 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:56:07,822 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:56:07,822 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:56:07,824 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:56:07,825 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 15:56:32,507 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:56:32,508 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 15:56:32,510 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 15:56:32,511 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 16:30:18,473 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 16:30:18,473 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 16:30:18,475 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 16:30:18,476 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 16:38:37,963 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 16:38:37,967 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 16:38:37,970 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 16:38:37,970 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 16:43:08,719 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 16:43:08,719 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 16:43:08,721 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 16:43:08,722 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 17:06:53,818 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 17:06:53,819 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 17:06:53,822 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 17:06:53,822 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-11-30 17:20:07,788 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 17:20:07,789 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\main\resources
+2022-11-30 17:20:07,791 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-30 17:20:07,791 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Brigosha_Guest\eclipse-workspace-mobileautomation\Aulas_MobileAutomation\src\test\resources
+2022-12-01 10:40:07,998 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
